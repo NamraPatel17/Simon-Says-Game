@@ -5,6 +5,7 @@ A classic memory game implemented using HTML, CSS, and JavaScript. Test your mem
 🚀 Features
 
 Interactive Gameplay: Click the colored buttons in the correct sequence to advance.
+
 Dynamic Sequences: Each round adds a new color to the sequence.
 Responsive Design: Optimized for various screen sizes.
 Visual and Audio Feedback: Enhances user engagement.
