@@ -29,6 +29,7 @@ Simon-Says-Game/
 ├── style.css        # CSS styling
 └── app.js           # JavaScript logic
 ```
+---
 
 ## 🎮 How to Play
 
