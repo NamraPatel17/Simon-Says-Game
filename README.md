@@ -30,18 +30,6 @@ Simon-Says-Game/
 └── app.js           # JavaScript logic
 ```
 
----
-
-## 📸 Screenshots
-
-### 🏠 Game Interface
-
-![Game Interface](images/game-interface.png)
-
-> *Make sure to save your screenshot as `game-interface.png` inside the `images/` folder.*
-
----
-
 ## 🎮 How to Play
 
 1. **Start the Game**: Press any key to begin.
